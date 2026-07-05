@@ -1,4 +1,4 @@
-# Nexa Store — Template Katalog Produk Digital
+# Nycore STUDIO — Template Katalog Store
 
 Template website katalog produk digital bergaya aplikasi mobile: Bottom Navigation, Grid 2 kolom, Pop Up Join WhatsApp Channel, halaman detail produk dengan slider video/foto, riwayat transaksi, dan Dashboard Admin untuk mengelola produk & pengaturan.
 
